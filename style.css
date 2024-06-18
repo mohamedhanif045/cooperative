@@ -2,15 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #180202;
+    background-color: #8a0f0f;
+    font-style: italic;
 }
 
 header {
     background-color: #9c00879a;
-    color: white;
+    color: red;
     padding: 1em;
     text-align: center;
-    background-image: ;
 }
 
 main {
@@ -27,7 +27,4 @@ section h2 {
 
 p {
     margin-bottom: 1em;
-}
-img{
-    background:"https://media.istockphoto.com/id/1202792169/photo/giraffes-between-the-acacia-trees-in-the-savannah-of-kenya.jpg?b=1&s=612x612&w=0&k=20&c=2TY3MghIbAPCPIbuynwCKlMSa8K3hbr1niY3z3OmXak=" ;
 }

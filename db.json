@@ -1,0 +1,39 @@
+{
+    "waterSources": [
+      {
+        "id": 1,
+        "name": "River A",
+        "type": "River",
+        "location": "Coordinates or description of location"
+      },
+      {
+        "id": 2,
+        "name": "Lake B",
+        "type": "Lake",
+        "location": "Coordinates or description of location"
+      }
+    ],
+    "waterLevels": [
+      {
+        "id": 1,
+        "sourceId": 1,
+        "date": "2024-06-18",
+        "level": 5.6,
+        "unit": "meters"
+      },
+      {
+        "id": 2,
+        "sourceId": 2,
+        "date": "2024-06-18",
+        "level": 2.3,
+        "unit": "meters"
+      },
+      {
+        "id": 3,
+        "sourceId": 1,
+        "date": "2024-06-19",
+        "level": 5.4,
+        "unit": "meters"
+      }
+    ]
+  }
